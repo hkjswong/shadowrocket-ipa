@@ -1,4 +1,4 @@
-# shadowrocket以及quantumult的ipa安裝包，下載時間25/10/2020。 借帳號的話請自行準備原生香港IP
+# shadowrocket以及quantumult的ipa安裝包,下載時間25/10/2020. 借帳號的話請自行準備原生香港IP
 ### 因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa
 
 ### 正版安裝之ifunbox
