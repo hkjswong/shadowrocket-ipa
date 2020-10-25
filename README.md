@@ -1,5 +1,4 @@
-# shadowrocket以及quantumult的ipa安裝包,下載時間25/10/2020. 借帳號的話請自行準備原生香港IP
-### 因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa
+# 借帳號的話請自行準備原生香港IP.因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa
 
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
@@ -10,7 +9,7 @@
 - 請自行準備原生香港IP再私訊我的TG借帳號
 
 ### 正版安裝之藍奏雲
-- 
+- https://chryax.lanzous.com/b01npqyte  密码:bjid
 - 點擊連結即可安裝，安裝後打開需要帳號密碼
 
 ### 強制破解
