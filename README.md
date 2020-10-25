@@ -23,7 +23,6 @@
 - Telegram：https://t.me/xwring :point_left:
 - 個人telegram:https://t.me/kwaong 👈
 - 我的博客（新的,舊的被封了):https://kwaon.wordpress.com/ 👈
-- Line：chryax :point_left:
 - :email: hello@lwky.com.hk :point_left:
 - Facebook粉專：https://www.facebook.com/jsrwon :point_left:
 - 微信公眾號 :point_down:
