@@ -1,5 +1,5 @@
 # 借帳號的話請自行準備原生香港IP.
-因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa。因為妳沒有輸入我的Apple ID所以會閃退！
+因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa.直接安裝打開會閃退喔！
 
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
@@ -12,6 +12,7 @@
 ### 正版安裝之藍奏雲
 - https://chryax.lanzous.com/b01nrjcoh  密码:c0mp
 - 點擊連結即可安裝，安裝後打開需要帳號密碼
+- 網盤：https://yadi.sk/d/46FdUMVcF4wD_w?w=1
 
 ### 強制破解教程
 - 安裝完成後用同步推修復閃退
