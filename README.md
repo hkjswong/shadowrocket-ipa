@@ -1,5 +1,5 @@
 # 借帳號的話請自行準備原生香港IP.
-因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa
+因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa。因為妳沒有輸入我的Apple ID所以會閃退！
 
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
