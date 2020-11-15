@@ -10,7 +10,7 @@
 - 請自行準備原生香港IP再私訊我的TG借帳號
 
 ### 正版安裝之藍奏雲
-- https://chryax.lanzous.com/b01npqyte  密码:bjid
+- https://chryax.lanzous.com/b01nrjcoh  密码:c0mp
 - 點擊連結即可安裝，安裝後打開需要帳號密碼
 
 ### 強制破解教程
