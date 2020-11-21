@@ -1,5 +1,6 @@
 # 借帳號的話請自行準備原生香港IP.
 因quantumultX有盜版檢測功能所以不提供QuantumultX的下載帳號與正版ipa.直接安裝打開會閃退喔！
+- [Netflix账号群](https://t.me/joinchat/PaJclxPQqIVnOFgXFSHC-w)
 
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
