@@ -1,5 +1,4 @@
-# 借帳號的話請自行準備原生香港IP. 惊爆：我来帮你买Quantumult套装包！ 扫码即可参与：
-![image](https://github.com/hkjswong/shadowrocket-ipa/blob/master/QuantumtX%E6%B4%BB%E5%8A%A8.jpg)
+# 借帳號的話請自行準備原生香港IP. 
 
 12/01/2021 已購買QuantumultX，只包安裝不包質量！ 畢竟quantumultX有盜版檢測
 - [Netflix账号群](https://t.me/joinchat/PaJclxPQqIVnOFgXFSHC-w)
