@@ -2,8 +2,6 @@
 
 12/01/2021 已購買QuantumultX，只包安裝不包質量！ 畢竟quantumultX有盜版檢測
 
-07/04公眾號小火箭shadowrocket抽獎活動，快來參與吧：![shadowrocket](https://github.com/hkjswong/shadowrocket-ipa/blob/master/%E6%8A%BD%E7%8D%8E%E6%B4%BB%E5%8B%95.JPG)
-
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
 - 選擇應用安裝
