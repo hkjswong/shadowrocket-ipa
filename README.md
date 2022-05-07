@@ -5,6 +5,7 @@
 
 
 12/01/2021 已購買QuantumultX，只包安裝不包質量！ 畢竟quantumultX有盜版檢測
+07/05/2022 已購Loon 可提供共享帳號。
 
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
