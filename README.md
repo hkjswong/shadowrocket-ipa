@@ -1,4 +1,4 @@
-# 借帳號的話請自行準備原生香港IP，新增Loon共享帳號
+# 借帳號的話請自行準備原生香港IP,已购诸多代理软件。 shadowrocket共享账号2022
 
 
 ##  [Shadowrocket/Quantumult/QuantumultX正版IPA安裝包](https://disk.yandex.com/d/9MiEXhx4uhhoDA)  最新提取日期：10/04/2022
@@ -7,6 +7,8 @@
 12/01/2021 已購買QuantumultX，只包安裝不包質量！ 畢竟quantumultX有盜版檢測
 
 07/05/2022 已購Loon 可提供共享帳號。
+
+29/06/2022 已购抓包软件Thor
 
 ### 正版安裝之ifunbox
 - 下載ifunbox連結手機
