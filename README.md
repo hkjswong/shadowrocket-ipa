@@ -13,18 +13,16 @@
 29/07/2022 已購 Pharos Pro
 
 ### 正版安裝之ifunbox
-- 下載ifunbox連結手機
+- 下載ifunbox/愛思助手連結手機
 - 選擇應用安裝
 - 手機打開app輸入登陸ID
 
 - 請自行準備原生香港IP再私訊我的TG借帳號
 
-### 正版安裝之藍奏雲
-- https://chryax.lanzous.com/b01nrjcoh  密码:c0mp
-- 點擊連結即可安裝，安裝後打開需要帳號密碼
-- 網盤：https://yadi.sk/d/46FdUMVcF4wD_w?w=1
+### 正版安裝之Yandex，內含Quantunult,QuantumultX，shadowrocket,Pharos，HTTP Catcher等安裝包
+- 網盤：https://disk.yandex.com/d/aLdaBVRA0OcHmQ
 
-### 強制破解教程
+### 強制破解教程 01/08/2022實測已失效
 - 安裝完成後用同步推修復閃退
 - 若是還閃退的話請私訊我的TG。
 
