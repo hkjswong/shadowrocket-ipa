@@ -1,10 +1,6 @@
-# 借帳號的話請自行準備原生香港IP,已购诸多代理软件。 shadowrocket共享账号2022
+# 借帳號的話請閣下自備指定的VPS香港節點,已购诸多代理软件| shadowrocket共享账号2022
 
-
-##  [Shadowrocket/Quantumult/QuantumultX正版IPA安裝包](https://disk.yandex.com/d/9MiEXhx4uhhoDA)  最新提取日期：01/08/2022
-
-
-12/01/2021 已購買QuantumultX，只包安裝不包質量！ 畢竟quantumultX有盜版檢測
+12/01/2021 已購買QuantumultX，只包安裝不包質量！ 設備數量已滿，下載後都是❌版本
 
 07/05/2022 已購Loon 可提供共享帳號。
 
@@ -17,12 +13,9 @@
 - 選擇應用安裝
 - 手機打開app輸入登陸ID
 
-- 請自行準備原生香港IP再私訊我的TG借帳號
+- 請自行準備原生香港IP再私訊我的TG借帳號. 未防止帳號濫用，僅限HKT/HKBN/Netvigator/PCCW/I-cable/HGC的節點登陸
 
-### 正版安裝之Yandex，內含Quantunult,QuantumultX，shadowrocket,Pharos，HTTP Catcher等安裝包
-- 網盤：https://disk.yandex.com/d/aLdaBVRA0OcHmQ
-
-### 強制破解教程 01/08/2022實測已失效
+### 強制破解教程，實測已失效
 - 安裝完成後用同步推修復閃退
 - 若是還閃退的話請私訊我的TG。
 
