@@ -14,7 +14,9 @@
 
 05/11/2022 已購LanceX
 
-15/11/2022 新開日區Apple ID。截止到23:01，帳號暫時未借用下載Quantumult X
+15/11/2022 Quantumultx設備數量已滿
+
+11/12/2022 日本區Apple ID已購Stash
 
 ### 正版安裝之ifunbox
 - 下載ifunbox/愛思助手連結手機
