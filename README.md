@@ -1,22 +1,9 @@
 # 借帳號的話請閣下自備指定的VPS香港節點,已购诸多代理软件| shadowrocket共享账号2022
 
-最後更新時間：05/11/2022
+可下载的软件清单，最新统计時間：13/12/2022
 
-12/01/2021 已購買QuantumultX，只包安裝不包質量！ 設備數量已滿，下載後都是❌版本
+![image](https://github.com/hkjswong/shadowrocket-ipa/blob/master/shared%20app.png)
 
-07/05/2022 已購Loon 可提供共享帳號。
-
-29/06/2022 已购抓包软件Thor
-
-29/07/2022 已購 Pharos Pro
-
-04/09/2022 部份APP已砸殼
-
-05/11/2022 已購LanceX
-
-15/11/2022 Quantumultx設備數量已滿
-
-11/12/2022 日本區Apple ID已購Stash
 
 ### 正版安裝之ifunbox
 - 下載ifunbox/愛思助手連結手機
