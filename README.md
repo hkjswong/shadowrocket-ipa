@@ -2,7 +2,7 @@
 
 可下载的软件清单，最新统计時間：13/12/2022
 
-![image](https://github.com/hkjswong/shadowrocket-ipa/blob/master/shared%20app.png)
+![image](https://github.com/hkjswong/shadowrocket-ipa/blob/master/ios%20app.png)
 
 
 ### 正版安裝之ifunbox
