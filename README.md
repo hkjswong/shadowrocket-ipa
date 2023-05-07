@@ -1,7 +1,6 @@
-#  shadowrocket共享账号2022
+#  shadowrocket共享账号
 
 ## 暂无说明
-
 
 
 ### 聯繫方式 :bell:
