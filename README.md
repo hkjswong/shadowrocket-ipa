@@ -1,4 +1,4 @@
-#  shadowrocket共享账号
+#  iOS端代理軟體IPA安裝包，未砸殼
 
 ## 暂无说明
 
